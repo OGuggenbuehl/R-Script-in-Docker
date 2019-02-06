@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549456992095.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1937449316",
+    "id" : "35EEC856",
+    "lastKnownWriteTime" : 1549457005,
+    "last_content_update" : 1549457005233,
+    "path" : "~/Intern/Blog/R-Script in Docker/02_code/myScript.R",
+    "project_path" : "02_code/myScript.R",
+    "properties" : {
+        "cursorPosition" : "2,36",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
