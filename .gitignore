@@ -1,8 +1,2 @@
-# Don't track the content of the data folders
-# 01_data/
-# 03_output/
-
 # Don't track files with these extensions
-*.csv
-*.png
 *.DS_Store
