@@ -31,3 +31,5 @@ plot <- plot_data %>%
 
 # save plot to output folder
 ggsave("03_output/myplot.png", width = 10, height = 8, dpi = 100)
+
+library(purrr)
